@@ -1,6 +1,6 @@
 # Readme
 
-This program allows you to export a list of songs stored in a folder in JSON format and create a Spotify playlist with these songs.
+This program allows you to export a list of songs stored in a folder in JSON format and create a Spotify playlist with these songs. It can be very useful if you have a big folder with a lot of songs / musics, and you want to quickly convert it to a spotify playlist for your account !
 
 ## Configuration
 
